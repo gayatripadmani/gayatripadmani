@@ -4,4 +4,4 @@
 - 😍 I'm interested in Data Science
 - 🌱 I’m currently learning ML, DL, NLP and Data Science
 - 👯 I’m looking to collaborate with other developers
-- 📫 How to reach me Mail on at padmanigayatri@gmail.com
+- 📫 To connect with me Mail on at padmanigayatri@gmail.com
