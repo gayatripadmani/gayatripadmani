@@ -1,4 +1,5 @@
-# Hi, I'm Gayatri Padmani 👋
+# Hey, Gayatri Here ![EmojiHiGIF](https://user-images.githubusercontent.com/67087179/214920161-d909b167-cda0-4770-98bb-94e84076bf44.gif)
+
 
 - 📖 I’m IT Student
 - 😍 I'm interested in Data Science
