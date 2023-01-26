@@ -1,4 +1,4 @@
-# Hey, I'm Gayatri Padmani https://github.com/nakulbhati/nakulbhati/blob/master/contain/Hi.gif,
+# Hey, I'm Gayatri Padmani 👋,
 
 - 📖 I’m IT Student
 - 😍 I'm interested in Data Science
