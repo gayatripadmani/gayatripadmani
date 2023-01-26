@@ -1,4 +1,4 @@
-# Hey, I'm Gayatri Padmani 👋,
+# Hey, I'm Gayatri Padmani Hi.gif,
 
 - 📖 I’m IT Student
 - 😍 I'm interested in Data Science
